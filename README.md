@@ -1,2 +1,1 @@
-# krisovickaceh
-im not super pro :()
+print("Hello World!")
